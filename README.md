@@ -24,10 +24,6 @@ Install the necessary packages via `pip`:
 
 pip install transformers torchaudio pydub tqdm
 
-# Audio-to-Text Transcription with Wav2Vec 2.0
-
-This project provides an automatic transcription pipeline for converting audio files to text using **Wav2Vec 2.0**, a state-of-the-art model for speech recognition developed by Facebook AI. The audio files are processed from a directory, and the transcriptions are stored in a CSV file.
-
 ## How to Run
 
 1. Clone the repository and navigate to the project directory:
@@ -46,6 +42,10 @@ This project provides an automatic transcription pipeline for converting audio f
     ```
 
 4. The transcriptions will be saved in a CSV file, specified by you.
+
+## Result
+
+![Screenshot](https://i.postimg.cc/jd2WsCt1/Screenshot-2024-10-09-130733.png)
 
 
 
