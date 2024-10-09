@@ -100,7 +100,7 @@ def main():
         return
 
     # Ganti path dengan folder audio Anda dan nama file CSV yang diinginkan
-    audio_folder = "D:\\corpusaudio\\cv-corpus-19.0-2024-09-13\\en\\clips"
+    audio_folder = "D:\\your\\corpusaudio\\folder\\clips"
     output_csv = "D:\\transcriptions.csv"
 
     # Proses folder dan simpan transkrip
